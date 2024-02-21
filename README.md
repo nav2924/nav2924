@@ -38,8 +38,6 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 <a href="http://www.github.com/nav2924"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nav2924&stroke=22c55e&background=000000&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/nav2924"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nav2924&bg_color=000000&color=22c55e&line=22c55e&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/nav2924" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav2924&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
