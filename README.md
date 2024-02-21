@@ -14,9 +14,9 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ### Skills
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,arduino,bootstrap,bash,babel,c,css,express,firebase,git,github,heroku,htmljava,js,jquery,linux,matlab,mongodb,mysql,node.js,npm,postman,react,redhat,replit,vue" />
   </a>
 </p>
 
