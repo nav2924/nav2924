@@ -24,7 +24,6 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/naveen_2924)
-![Leetcode Stats](https://leetcard.jacoblin.cool/naveen_2924/lapor?ext=heatmap)
 
 
 ### Socials
