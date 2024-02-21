@@ -20,7 +20,9 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
   </a>
 </p>
 
-<b>Leetcode
+<b>Leetcode</b>
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/naveen_2924)
 
 
