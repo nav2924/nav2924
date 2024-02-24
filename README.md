@@ -8,7 +8,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 * 🌍  I'm based in Bangaore,India
 * ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
-* 🧠  I'm learning Java FX
+
 * 🤝  I'm open to collaborating on Web development Projects
 
 ### Skills
