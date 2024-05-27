@@ -75,7 +75,6 @@ class WhoAmI {
             'Learn Japanese',
             'Create SkyNet',
             'Finish My Novel',
-            // Assume 10 more awesome ambitions here ;)
         ];
     }
 }
