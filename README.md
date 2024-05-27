@@ -13,9 +13,10 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 * 🌍  I'm based in Bangaore,India
 * ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
 
+   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 * 🤝  I'm open to collaborating on Web development Projects
 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 
 ### Skills
