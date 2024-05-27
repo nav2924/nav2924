@@ -4,12 +4,42 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN-Stack Developer
 --------------------
 
-Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so do amazing projects.
+# WhoAmI Class
 
-* 🌍  I'm based in Bangaore,India
-* ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
+This is a JavaScript class representing a user's profile, including their name, current work, hobbies, city, and ambitions.
 
-* 🤝  I'm open to collaborating on Web development Projects
+```javascript
+class WhoAmI {
+    constructor() {
+        this.user = 'Naveen';
+        this.current_work = 'Writing code';
+        this.hobbies = [
+            'Drawing',
+            'Watching Anime',
+            'Reading Sci-Fi Novels',
+            'Being up all Night chasing that ONE BUG...'
+        ];
+    }
+
+    getCity() {
+        return 'Bangalore, India';
+    }
+
+    ambitions() {
+        return [
+            'Learn Japanese',
+            'Create SkyNet',
+            'Finish My Novel',
+            // Assume 10 more awesome ambitions here ;)
+        ];
+    }
+}
+
+const whoAmI = new WhoAmI();
+console.log(`My name is ${whoAmI.user}`);
+console.log(`My city is ${whoAmI.getCity()}`);
+console.log(`My hobbies are: ${whoAmI.hobbies.join(', ')}`);
+console.log(`My ambitions are: ${whoAmI.ambitions().join(', ')}`);
 
 ### Skills
 
