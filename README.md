@@ -52,8 +52,6 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ### Who am I
 
 
-
-
 ```javascript
 class WhoAmI {
     constructor() {
@@ -80,10 +78,3 @@ class WhoAmI {
         ];
     }
 }
-
-const whoAmI = new WhoAmI();
-console.log(`My name is ${whoAmI.user}`);
-console.log(`My city is ${whoAmI.getCity()}`);
-console.log(`My hobbies are: ${whoAmI.hobbies.join(', ')}`);
-console.log(`My ambitions are: ${whoAmI.ambitions().join(', ')}`);
-
