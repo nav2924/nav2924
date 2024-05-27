@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN-Stack Developer
 --------------------
-
-
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='center'/>
 
 This is a JavaScript class representing a user's profile, including their name, current work, hobbies, city, and ambitions.
 
