@@ -16,7 +16,11 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 * 🤝  I'm open to collaborating on Web development Projects
 
 
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left'/>
+<br >
+<br >
+<br >
+<br >
 
 ### Skills
 
