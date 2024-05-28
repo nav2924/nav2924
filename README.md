@@ -40,8 +40,8 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ### Badges
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nav2924&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/><br/><br/>
+![](https://github-readme-streak-)/?user=nav2924&theme=radical&hide_border=false)<br/><br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Top Repo
