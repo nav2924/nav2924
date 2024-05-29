@@ -40,15 +40,16 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ### Badges
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false) <br/><br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com)/?user=nav2924&theme=radical&hide_border=false)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nav2924&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Top Repo
-<div width="100%" align="center"><a href="[https://github.com/nav2924/Evo_website.git]" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nav2924&repo=codsoft_Task_1&title_color=22c55e&text_color=22c55e&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=nav2924&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+---
 [![](https://visitcount.itsvg.in/api?id=nav2924&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### Who am I
 
