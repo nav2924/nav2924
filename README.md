@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 MERN-Stack Developer
 --------------------
- 
-This is a JavaScript class representing a user's profile, including their name, current work, hobbies, city, and ambitions.
 
 Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so do amazing projects.
 
