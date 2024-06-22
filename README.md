@@ -6,7 +6,7 @@ MERN-Stack Developer
 
 Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so do amazing projects.
 
-* 🌍  I'm based in Bangaore,India
+* 🌍  I'm based in Bangalore,India
 * ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
 * 🤝  I'm open to collaborating on Web development Projects
 
