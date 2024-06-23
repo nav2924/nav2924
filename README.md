@@ -41,6 +41,8 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 ![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nav2924&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nav29242&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=nav2924&theme=radical&no-frame=false&no-bg=false&margin-w=4)
