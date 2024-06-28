@@ -12,7 +12,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 
 ### Projects
-🔗<a href="https://logoforge.vercel.app/">
+🔗<a href="https://logoforge.vercel.app/">LogoForge</a>
 
 ### Skills
 
