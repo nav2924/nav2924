@@ -50,20 +50,13 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
     </picture>
   </a>
   <a href="https://www.geeksforgeeks.org/user/navi2909zsn/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/geeksforgeeks-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/geeksforgeeks.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/geeksforgeeks.svg" width="32" height="32" />
-    </picture>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="32" height="32" alt="GeeksforGeeks" />
   </a>
   <a href="https://leetcode.com/u/naveen_2924/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" />
-    </picture>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" height="32" alt="LeetCode" />
   </a>
 </p>
+
 
 ### My Life in a GIF
 
