@@ -58,11 +58,11 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 </p>
 
 
-### My Life in a GIF
+## My Life in a GIF
 
 ![Example GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-### Badges
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=nav2924&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
