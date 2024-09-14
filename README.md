@@ -88,7 +88,6 @@ class WhoAmI {
         this.current_work = 'Writing code';
         this.hobbies = [
             'Rail-Fanner',
-            'Drawing',
             'Watching Series',
             'Reading Sci-Fi Novels',
             'Being up all Night chasing that ONE BUG...'
