@@ -22,16 +22,16 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <h3>💻 IDEs & Editors</h3>
+  <h3>💻 IDEs & Editors</h3>
     <img src="https://skillicons.dev/icons?i=replit,github" />
 
-    <h3>🤖 Machine Learning</h3>
+  <h3>🤖 Machine Learning</h3>
     <img src="https://skillicons.dev/icons?i=python,matlab" />
 
-    <h3>🌐 Web Development</h3>
+  <h3>🌐 Web Development</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,jquery,express,mongodb,nodejs,npm,firebase" />
 
-    <h3>☁️ DevOps & Cloud</h3>
+  <h3>☁️ DevOps & Cloud</h3>
     <img src="https://skillicons.dev/icons?i=git,github,heroku,linux,redhat,bash,postman,mysql" />
   </a>
 </p>
