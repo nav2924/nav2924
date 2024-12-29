@@ -28,11 +28,11 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
   <!-- Machine Learning -->
   <h3>🤖 Machine Learning</h3>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab" />
 
   <!-- Web Development -->
   <h3>🌐 Web Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase,prisma,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase,prisma,redux,figma" />
 
   <!-- DevOps & Cloud -->
   <h3>☁️ DevOps & Cloud</h3>
