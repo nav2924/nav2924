@@ -24,7 +24,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
   <a href="https://skillicons.dev">
   <!-- IDEs -->
   <h3>💻 IDEs & Editors</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,intellij,eclipse,androidstudio,replit" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,replit" />
 
   <!-- Machine Learning -->
   <h3>🤖 Machine Learning</h3>
@@ -32,7 +32,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
   <!-- Web Development -->
   <h3>🌐 Web Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase,prisma,redux" />
 
   <!-- DevOps & Cloud -->
   <h3>☁️ DevOps & Cloud</h3>
