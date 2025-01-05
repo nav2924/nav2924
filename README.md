@@ -32,11 +32,11 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
   <!-- Web Development -->
   <h3>🌐 Web Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase,postgres,prisma,redux,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,vite,bootstrap,jquery,express,mongodb,nodejs,npm,firebase,postgres,prisma,redux,figma,postman" />
 
   <!-- DevOps & Cloud -->
   <h3>☁️ DevOps & Cloud</h3>
-    <img src="https://skillicons.dev/icons?i=aws,git,github,heroku,docker,jenkins,linux,redhat,bash,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,heroku,docker,jenkins,linux,redhat,bash,mysql" />
   </a>
 </p>
 
