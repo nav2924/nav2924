@@ -12,10 +12,12 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 
 
 ### Projects
+<h3>🖥️<a href="https://main.d1pls9soqnfwtf.amplifyapp.com/dashboard">InvestFlow</a></h3>
 <h3>🧑‍🚒<a href="https://logoforge.vercel.app/">LogoForge</a></h3>
 <h3>🔪<a href="https://creova.vercel.app/">Creova</a></h3>
 <h3>💬<a href="https://chatterforge.onrender.com/">ChatterForge</a></h3>
 <h3>👾<a href="https://evo-website.vercel.app/">Evo_Intern_Portfolio</a></h3>
+
 
 ### Skills
 
