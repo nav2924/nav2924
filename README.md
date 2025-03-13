@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naveen V
 ================================================================================================================================
 
-MERN-Stack Developer🎧 & ML-Enthusiast🤖
+MERN-Stack Developer🎧 & ML-Enthusiast🤖 & 🩻Budding DevOps Engineer
 --------------------
 
 Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so do amazing projects.
 
-* 🌍  I'm based in Bangalore,India
+* 🌍  I'm from Bangalore,India
 * ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
 * 🤝  I'm open to collaborating on Web development Projects as well as ML
 
