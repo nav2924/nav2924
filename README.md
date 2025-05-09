@@ -9,7 +9,7 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 * 🌍  I'm from Bangalore,India
 * ✉️  You can contact me at [navi29012004@gmail.com](mailto:navi29012004@gmail.com)
 * 🤝  I'm open to collaborating on Web development Projects as well as ML
-* 🖥️  <a href = "https://nvn-portfolio.vercel.app/">My Portfolio</a>
+* 🖥️  <a href = "https://nvn-portfolio.vercel.app/" target="_blank">My Portfolio</a>
 
 
 ### Projects
