@@ -106,12 +106,12 @@ Ctrl + Alt + Del would never delete my passion for coding. Git happens! But so d
 class WhoAmI {
     constructor() {
         this.user = 'Naveen';
-        this.current_work = 'Writing code';
+        this.currentWork = 'Writing elegant, occasionally chaotic code';
         this.hobbies = [
-            'Rail-Fanner',
-            'Watching Series',
-            'Reading Sci-Fi Novels',
-            'Being up all Night chasing that ONE BUG...'
+            'Railfanning 🚂 (yes, I can identify locomotives by sound)',
+            'Watching mind-bending series',
+            'Reading Sci-Fi novels (Asimov is a legend)',
+            'Staying up all night hunting down that *one* elusive bug 🐛'
         ];
     }
 
@@ -119,14 +119,20 @@ class WhoAmI {
         return 'Bangalore, India';
     }
 
-    ambitions() {
+    getAmbitions() {
         return [
-            'Learn Japanese',
-            'Create SkyNet',
-            'Finish My Novel',
+            'Become fluent in Japanese (日本語を話せるようになる)',
+            'Build a *responsible* version of SkyNet 🤖',
+            'Finish and publish my own Sci-Fi novel',
+            'Contribute meaningfully to AI & automation in rail systems'
         ];
     }
+
+    introduce() {
+        return `Hi, I'm ${this.user} from ${this.getCity()}. I'm currently ${this.currentWork.toLowerCase()} and living the dream of code, trains, and creativity.`;
+    }
 }
+
 ```
 
 ![](https://komarev.com/ghpvc/?username=nav2924&abbreviated=true)
